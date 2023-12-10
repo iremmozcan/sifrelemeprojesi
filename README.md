@@ -8,7 +8,7 @@ isalpha c fonksiyonumuz ile girilen karakterin harf olup olmadığını  kontrol
 isupper fonksiyonumuz ile girilen metinde büyük harf olup olmadığını kontrol ettik.
 Alfabedeki harf sayısı 26 olduğu için %26 olarak mod aldık ve 0 dan 25'e kadar döngü içinde kaldı.
 tolower fonksiyonumuz ile büyük harf var ise küçük harfe dönüştürdük.
-Şifrelenmesini istedğimiz metni yazdırdık.
+Şifrelenmesini istediğimiz metni yazdırdık.
 
 
 
