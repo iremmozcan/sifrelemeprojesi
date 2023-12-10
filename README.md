@@ -1,6 +1,6 @@
 #Şifreleme Projesi
 
-Metnimizi 100 karakater ile sınırladık.
+Metnimizi 100 karakter ile sınırladık.
 
 Harf kaydırılma miktarımızı anahatar olarak tanımladık.
 
